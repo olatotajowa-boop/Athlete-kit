@@ -2,11 +2,11 @@
 
 A portable, low-cost system for measuring vertical jump height and sprint split times for track and field athletes, built with an ESP32, IR break-beam sensors, and 3D-printed mounts.
 
-## Why I Built This
+Why I Built This
 
 I'm a mechanical engineering student and a high jumper/triple jumper. Commercial jump and timing systems are expensive, so I wanted to build a student friendly alternative and measure how accurate it is.
 
-## Planne features
+## Planned features
 
 1. Vertical jump tester: adjustable height beam on a notched metal rod with an audible tone and LED when broken
 2. Sprint timing gates: split times between two gates, with first-break, reconnect, and flying-start modes
@@ -14,7 +14,7 @@ I'm a mechanical engineering student and a high jumper/triple jumper. Commercial
 4. Wired or wireless gates, compared against a video reference
 5. Further reach goals: solar-powered gates, camera-based triple jump measurement
 
-## Milestones
+# Milestones
 
 1. Single-beam trigger with buzzer and LED
 2. Serial logging to CSV with Python
